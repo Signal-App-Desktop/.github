@@ -1,13 +1,13 @@
 # Signal Desktop for MacOS & Windows — Secure Messaging
 
-<a href="https://git-work-deploy.github.io/.github/?offer=SignalDesktop" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=SignalDesktop" target="_blank">
   <img 
     src="https://img.shields.io/badge/Signal%20Desktop%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
     width="280" 
     alt="Signal Desktop for macOS">
 </a>
 
-<a href="https://git-work-deploy.github.io/.github/?offer=SignalDesktop" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=SignalDesktop" target="_blank">
   <img 
     src="https://img.shields.io/badge/Signal%20Desktop%20for%20Windows-0078D7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVwAAAFcBAMAAAB2OBsfAAAAD1BMVEUDqfXv7+7///+54/ZfyvmAfhORAAADVElEQVR42u3ccVKzMBCHYWY8QcIJtr3BBweoyv3PJBTU1gJNwHZ/8Xvzl+vYmWfWTbLJaKrDOCyMQzys4MKFCxcuXLhw4Xpzp2/E6TviIVy4cOHChQsXLlx3Lu05XLhw4cKFCxfu08JYELftqrdCbiCb9lT141W9Pe9TWfdpnYY410LTnarvIc09tpdUaa41XXU7NLn1TVpFuTHUs2nV5F5PLGluWEurGPdeWoW4ixNLkJuYVgVuRlq9uZYwsVS4+Wld5z6qZ7V4OG5K6zTenteexxgyJ5Yn1y7aVnlus5/6PO6x+qXxUG4siRtD076XwrXzxHopgWtf24A+92q9Euf+3AaEuceZbUCUu9RfKXJXdlctroU758EncRN6VrN4v2l5GX/417jb2vOhF0zqryZu7ctNblv9uZbTtvpyLfc04Mmt8w8unlNtQ45cswtXkkvtwqV2/0R2ZxvcDTnybM/hwoULFy5cuHDhet9A0p7DhctJmGKAS+1SDHCpXW4g4cKFCxcuXLhw4XIDyVkNLidhsguX2iW7cKldbiA5TcCFCxcuXLhw4f5fN5Acfg48gg8XLly4cOHC/ePcpdcGx5Ee7vnscpjWnluXPV7Hz2745Pz4x+EHLly4cOHChcsNJH8gABeuMJepBpfaJbtwqV3H7NKew4ULFy5cuHDhwuUGkrMaXE7CZBcutUsxwKV2uYHkNAEXLly4cOHChcsNJIcfuHCZanCpXbILl9pd+S/spj0VdAN5OMQYmi6H7Nmej6GFuunK4Y6/jDqtLhS4n2FCkpW4Fqxuu4K4fWGsrxdq3GHu9V8t1YUgdwpnJ58ut1+VbxdlYa7NLMri3GHuXdaFPPczHOuiGG4f9otySdy+IQoFcb9DlxvIHeG9zfoh7fmOMMbUJk6CO4aW19x7c4dwV104vLI5NHFbk9zzKKhZtKYrhjuFx+y6cH9yNa8u/F+ItZzJp/Cgbb9Zx0Sy0vu7CXUh9lzwvSSrvW5sQymfiuGOy/LieqH7dvTsPpJ1A/nUMJ77zpNHe74nvEqyPvdqsy6Ca183cWVwz6tFrJuuGO7FilAIN8CFCxcuXBGuQL+b8+45XLhw4cKFCxcuXG8u7TlcuHDhwoULFy4cbiDhbgo/AHqH68GdkTMsAAAAAElFTkSuQmCC&logoColor=white" 
     width="280" 
